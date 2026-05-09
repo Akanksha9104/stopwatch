@@ -1,4 +1,4 @@
-# stopwatch
+
 # ⏱️ Stopwatch Web Application
 
 A simple and interactive stopwatch application built using HTML, CSS and JavaScript.
